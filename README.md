@@ -23,7 +23,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🎓 **M.Sc. from NIT Warangal** | 💼 **Data Scientist @ Analytics Vidhya**
+🎓 **Masters in Science and Technology from NIT Warangal** | 💼 **Data Scientist @ Analytics Vidhya**
 
 I'm a **Data Scientist** specializing in **Generative AI** and **Multi-Agent Systems**. I build intelligent workflows using cutting-edge frameworks like **LangChain**, **LangGraph**, **CrewAI**, and **AutoGen**.
 
@@ -123,7 +123,6 @@ I'm a **Data Scientist** specializing in **Generative AI** and **Multi-Agent Sys
 <p>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
@@ -134,7 +133,7 @@ I'm a **Data Scientist** specializing in **Generative AI** and **Multi-Agent Sys
 ### 🎯 Specialized Skills
 
 ```mermaid
-%%{init: {'theme':'light', 'themeVariables': { 'primaryColor':'#6366F1', 'primaryTextColor':'#000ff', 'primaryBorderColor':'#8B5CF6', 'lineColor':'#EC4899', 'secondaryColor':'#10B981', 'tertiaryColor':'#F59E0B'}}}%%
+%%{init: {'theme':'light', 'themeVariables': { 'primaryColor':'#6366F1', 'primaryTextColor':'#FFFFFF', 'primaryBorderColor':'#8B5CF6', 'lineColor':'#EC4899', 'secondaryColor':'#10B981', 'tertiaryColor':'#F59E0B'}}}%%
 mindmap
   root((AI/ML Expert))
     Generative AI
@@ -279,7 +278,7 @@ Other      30 mins         ░░░░░░░░░░░░░░░░░�
 <div align="center">
 
 ### 💬 I'm always interested in:
-🔹 **Generative AI Projects** | 🔹 **Multi-Agent Systems** | 🔹 **RAG Applications** | 🔹 **Data Science** | 🔹 **Technical Collaborations**
+🔹 **Data Science** | 🔹 **Multi-Agent Systems** | 🔹 **RAG Applications** | 🔹**Generative AI Projects**  | 🔹 **Technical Collaborations**
 
 ### 📫 Reach Out:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vipinvsist/)
