@@ -13,7 +13,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vashistvipin42@gmail.com)
 [![Analytics Vidhya](https://img.shields.io/badge/Analytics_Vidhya-00D9FF?style=for-the-badge&logo=google-analytics&logoColor=white)](https://www.analyticsvidhya.com/blog/author/vipinvsist/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vipinvsist&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/vipinvsist?style=for-the-badge&color=blue&logo=github)
 ![GitHub User's stars](https://img.shields.io/github/stars/vipinvsist?style=for-the-badge&color=yellow&logo=github)
 
