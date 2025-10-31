@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🎓 **Master's in Science and Technology from NIT Warangal** | 💼 **Data Scientist @ Analytics Vidhya**
 
@@ -170,17 +170,17 @@ mindmap
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vipinvsist&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true" alt="Vipin's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinvsist&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vipinvsist&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=1800" alt="Vipin's GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vipinvsist&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&date_format=M%20j%5B%2C%20Y%5D"  />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinvsist&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=vipinvsist&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Contribution Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vipinvsist&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=10&cache_seconds=1800" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=vipinvsist&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&cache_seconds=1800" alt="Contribution Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vipinvsist&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FF6B6B" width="98%" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vipinvsist&theme=radical" width="98%" alt="Contribution Graph" />
 </div>
 
 ---
