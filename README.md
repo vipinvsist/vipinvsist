@@ -139,7 +139,7 @@ I'm a **Data Scientist** specializing in **Generative AI** and **Multi-Agent Sys
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#3b82f6', 'primaryTextColor':'#ffffff', 'primaryBorderColor':'#2563eb', 'lineColor':'#6366f1', 'secondaryColor':'#8b5cf6', 'secondaryTextColor':'#ffffff', 'tertiaryColor':'#ec4899', 'tertiaryTextColor':'#ffffff', 'fontSize':'16px', 'fontFamily':'arial'}}}%%
 mindmap
-  root((AI/ML Expert))
+  root((Skill Set))
     Generative AI
       LLMs
       Prompt Engineering
